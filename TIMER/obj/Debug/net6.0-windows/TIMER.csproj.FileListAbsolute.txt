@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\TIMER\TIMER\bin\Debug\net6.0-windows\TIMER.exe
+C:\Users\student\source\repos\TIMER\TIMER\bin\Debug\net6.0-windows\TIMER.deps.json
+C:\Users\student\source\repos\TIMER\TIMER\bin\Debug\net6.0-windows\TIMER.runtimeconfig.json
+C:\Users\student\source\repos\TIMER\TIMER\bin\Debug\net6.0-windows\TIMER.dll
+C:\Users\student\source\repos\TIMER\TIMER\bin\Debug\net6.0-windows\TIMER.pdb
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.Form1.resources
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.csproj.GenerateResource.cache
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.AssemblyInfo.cs
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.dll
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\refint\TIMER.dll
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.pdb
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\TIMER.genruntimeconfig.cache
+C:\Users\student\source\repos\TIMER\TIMER\obj\Debug\net6.0-windows\ref\TIMER.dll
